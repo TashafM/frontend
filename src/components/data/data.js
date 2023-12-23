@@ -1,0 +1,98 @@
+export const users = [
+  {
+    id: 1,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 2,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 3,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 4,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 5,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 6,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 7,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 8,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 1,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 2,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 3,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 4,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 5,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 6,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 7,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+  {
+    id: 8,
+    name: "John Doe",
+    email: "john.doe@gmail.com",
+    age: 24,
+  },
+];

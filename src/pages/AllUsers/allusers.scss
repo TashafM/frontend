@@ -1,0 +1,42 @@
+.allusers {
+  padding: 50px;
+
+  .title_user {
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+    margin: 20px auto;
+    color: black;
+  }
+
+  .table_div {
+    height: 65vh;
+    overflow: auto;
+    table {
+      text-align: center;
+      thead {
+        position: sticky;
+        top: -0.2px;
+      }
+
+      tbody{
+        tr{
+            td{
+                button{
+                    outline: none;
+                    border: none;
+                    background-color: red;
+                    padding: 2px 8px;
+                    border-radius: 4px;
+                    color: white;
+                    font-size: 12px;
+                    font-weight: 600;
+                }
+            }
+        }
+      }
+    }
+  }
+
+
+}
